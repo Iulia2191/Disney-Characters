@@ -11,6 +11,10 @@ Search Functionality: Search for characters by name to quickly find the informat
 
 Favorites: Add characters to your favorites list for easy access. Remove characters from favorites or reset the entire favorites list.
 
+Data Source
+
+Character information is fetched from the Disney API, providing up-to-date and accurate details about Disney characters.
+
 Technologies Used
 React: The application is built using the React library for building user interfaces.
 
