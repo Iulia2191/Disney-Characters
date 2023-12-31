@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-image: url('./img/disney-world.jpg');
+    background-size: cover;
+    background-attachment: fixed; 
+    background-repeat: inherit;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+#logo{
+    font-family: 'Mouse Memoirs', sans-serif;
+    font-size: 50px;
+}
+h1{
+    font-family: 'Mouse Memoirs', sans-serif;
+    
+}
+.intro{
+    min-height: 80vh;
+}
+.character-container, .favorite-container, .search-container{
+    min-height: 75vh;
+    margin-top: 150px;
+    text-align: center;
+    
+}
+
+.character-container img{
+    width: 350px;
+    height: 400px;
+    object-fit: cover;
+}
