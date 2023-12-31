@@ -1,8 +1,21 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Disney Characters Explorer
+A simple web application built with React that allows users to explore Disney characters. Users can view details about each character, add them to favorites, and search for specific characters.
+
+Features
+Character Exploration: View detailed information about Disney characters, including their names, images, films, short films, TV shows, and video games.
+
+Search Functionality: Search for characters by name to quickly find the information you're looking for.
+
+Favorites: Add characters to your favorites list for easy access. Remove characters from favorites or reset the entire favorites list.
+
+Technologies Used
+React: The application is built using the React library for building user interfaces.
+
+React Router: Utilized for handling navigation within the application.
+
+Redux: State management using Redux for managing the favorites list.
+
+Tailwind CSS: Styling is done with Tailwind CSS for a clean and responsive design.
