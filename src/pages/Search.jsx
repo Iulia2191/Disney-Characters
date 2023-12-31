@@ -35,7 +35,7 @@ function Search () {
         <input
           type='text'
           placeholder='Search characters...'
-          className='border mx-20 p-2 flex-grow mr-4 my-5'
+          className='border p-2 flex-grow mr-4 my-5'
           value={inputData}
           onChange={e => setInputData(e.target.value)}
           onKeyDown={(e) => {
