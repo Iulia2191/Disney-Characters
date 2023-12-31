@@ -16,7 +16,7 @@ function Intro () {
   }
 
   return (
-    <div className='intro h-screen mt-40 flex items-center justify-center text-white'>
+    <div className='intro h-screen mt-32 flex items-center justify-center text-white'>
       <div className='intro text-center max-w-2xl p-8 animate-fadeIn'>
         <p className='text-4xl font-bold mb-8 animate-fadeIn'>
           Discover the Magic of Disney Characters
