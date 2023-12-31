@@ -1,26 +1,26 @@
-
-
-
-Disney Characters Explorer
+# Disney Characters Explorer
 
 A simple web application built with React that allows users to explore Disney characters. Users can view details about each character, add them to favorites, and search for specific characters.
 
-Features
-Character Exploration: View detailed information about Disney characters, including their names, images, films, short films, TV shows, and video games.
+## Features
 
-Search Functionality: Search for characters by name to quickly find the information you're looking for.
+- **Character Exploration:** View detailed information about Disney characters, including their names, images, films, short films, TV shows, and video games.
 
-Favorites: Add characters to your favorites list for easy access. Remove characters from favorites or reset the entire favorites list.
+- **Search Functionality:** Search for characters by name to quickly find the information you're looking for.
 
-Data Source
+- **Favorites:** Add characters to your favorites list for easy access. Remove characters from favorites or reset the entire favorites list.
 
-Character information is fetched from the Disney API, providing up-to-date and accurate details about Disney characters.
+## Data Source
 
-Technologies Used
-React: The application is built using the React library for building user interfaces.
+Character information is fetched from the [Disney API](https://api.disneyapi.dev/), providing up-to-date and accurate details about Disney characters.
 
-React Router: Utilized for handling navigation within the application.
+## Technologies Used
 
-Redux: State management using Redux for managing the favorites list.
+- **React:** The application is built using the React library for building user interfaces.
 
-Tailwind CSS: Styling is done with Tailwind CSS for a clean and responsive design.
+- **React Router:** Utilized for handling navigation within the application.
+
+- **Redux:** State management using Redux for managing the favorites list.
+
+- **Tailwind CSS:** Styling is done with Tailwind CSS for a clean and responsive design.
+
