@@ -29,7 +29,7 @@ function Search () {
   }
 
   return (
-    <div className='search-container mx-10 mt-10'>
+    <div className='search-container mx-5 mt-10'>
       <h2 className='text-4xl font-bold mb-6 text-white'>Search Characters</h2>
       <div className='flex items-center mb-4'>
         <input
